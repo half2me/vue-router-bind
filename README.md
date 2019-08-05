@@ -30,3 +30,5 @@ And you now have 2-way data binding. Feel free read/write to these variables. Fo
 As you type, the url will be updated.
 
 Instead of doing `this.$routes.query.search` to get the value, and `this.$router.push({query: {search: 'value'}})`, you can now elegantly use v-model or a .sync modifier on a prop, allowing you to write cleaner and more concise code.
+
+You can also use `mapRouterHash` and `mapRouterParams` in the same way, to use the respective values.
