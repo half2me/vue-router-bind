@@ -8,6 +8,12 @@ Two way bindings for vue-router
 
 ## Usage
 
+Import the required mapper function:
+
+```javascript
+import {mapRouterQuery} from @halftome/vue-router-mapper
+```
+
 In any of your vue components, Add the required query params to your `computed`:
 
 ```javascript
