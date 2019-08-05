@@ -1,0 +1,26 @@
+{
+  "name": "@halftome/vue-router-mapper",
+  "version": "1.0.0",
+  "description": "Two way bindings for vue-router",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/half2me/vue-router-mapper.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue-router",
+    "vue",
+    "v-model",
+    "js"
+  ],
+  "author": "Benjamin Tamasi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/half2me/vue-router-mapper/issues"
+  },
+  "homepage": "https://github.com/half2me/vue-router-mapper#readme"
+}
